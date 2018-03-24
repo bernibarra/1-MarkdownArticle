@@ -6,7 +6,7 @@
 
 
 # Change your directory to a folder in which you do work for this class
-# Make sure to use the "~" shortcut rather than specifying the full path
+# You may use "~" shortcut (mac), or specify the full path
 
 
 # Clone your (private) assignment repository from GitHub to your machine
