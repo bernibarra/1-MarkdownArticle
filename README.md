@@ -13,7 +13,7 @@ sharing of modern media across platforms.
 >> "Rich Communication Services is what lets you use read receipts in texts or see when someone else is typing" (Gottsegen).
 
 ---
-![google RCS illustration](https://github.com/info201b-w19/a1-bernibarra/blob/master/imgs/rcs-illustration.png)
+![google RCS illustration](./imgs/rcs-illustration.png)
 
 ---
 ##### Related Content:
